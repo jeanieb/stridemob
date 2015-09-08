@@ -14,7 +14,7 @@ layout: default
 
   <article class="post-content">
     {% if page.photo %}
-      <img src="{{page.photo}}" class="left-wrap pure-img" alt="{{page.title}}"/>
+      <img src="{{site.baseurl}}{{page.photo}}" class="left-wrap pure-img" alt="{{page.title}}"/>
     {% endif %}
     {{ content }}
 
