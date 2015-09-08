@@ -1,0 +1,78 @@
+@font-face {
+	font-family: "Flaticon";
+	src: url("flaticon.eot");
+	src: url("flaticon.eot#iefix") format("embedded-opentype"),
+	url("flaticon.woff") format("woff"),
+	url("flaticon.ttf") format("truetype"),
+	url("flaticon.svg") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {
+	font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+}.flaticon-flexions:before {
+	content: "\e000";
+}
+.flaticon-football102:before {
+	content: "\e001";
+}
+.flaticon-excercising:before {
+	content: "\e002";
+}
+.flaticon-man204:before {
+	content: "\e003";
+}
+.flaticon-man271:before {
+	content: "\e004";
+}
+.flaticon-record:before {
+	content: "\e005";
+}
+.flaticon-regular2:before {
+	content: "\e006";
+}
+.flaticon-run4:before {
+	content: "\e007";
+}
+.flaticon-runer:before {
+	content: "\e008";
+}
+.flaticon-runner5:before {
+	content: "\e009";
+}
+.flaticon-running31:before {
+	content: "\e00a";
+}
+.flaticon-silhouette66:before {
+	content: "\e00b";
+}
+.flaticon-snowboard1:before {
+	content: "\e00c";
+}
+.flaticon-skiing:before {
+	content: "\e00d";
+}
+.flaticon-swimmer9:before {
+	content: "\e00e";
+}
+.flaticon-swimming20:before {
+	content: "\e00f";
+}
+.flaticon-time13:before {
+	content: "\e010";
+}
+.flaticon-trophy42:before {
+	content: "\e011";
+}
+.flaticon-volleyball3:before {
+	content: "\e012";
+}
+.flaticon-weightlifting:before {
+	content: "\e013";
+}
+.flaticon-weightlifting3:before {
+	content: "\e014";
+}

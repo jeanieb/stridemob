@@ -1,0 +1,10 @@
+# Site settings
+title: StrideMob
+description: > # this means to ignore newlines until "baseurl:"
+  Community Inspired Running, Cycling, Swimming, Triathalon and other events
+baseurl: ""
+url: "http://www.stridemob.com"
+
+
+# Build settings
+markdown: kramdown

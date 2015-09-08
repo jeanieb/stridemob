@@ -1,0 +1,15 @@
+<div class="header">
+    <div class="home-menu pure-menu pure-menu-horizontal pure-menu-fixed">
+        <a class="pure-menu-heading" href=""><img src="{{ site.baseurl }}/img/stridemob_olive_dark_top.png"></a>
+
+        <ul class="pure-menu-list">
+            {% assign sorted_pages = (site.pages | sort: 'order') %}
+            {% assign url = page.url %}
+            {% for page in sorted_pages %}
+              {% if page.title %}
+              <li class="pure-menu-item {% if url == page.url %}pure-menu-selected{% endif %}"><a href="{{ page.url | prepend: site.baseurl | remove:'index.html'}}" class="pure-menu-link">{{ page.title }}</a></li>
+              {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
+</div>

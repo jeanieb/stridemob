@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="page-content pure-u-1-24"></div>
+<div class="page-content pure-u-22-24">
+
+  <header class="post-header">
+    <h1 class="post-title"><span class="{{ page.icon }}"></span> {{ page.title }}</h1>
+    <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }} @ {{ page.start_time }} -
+        <a href="https://www.google.com/maps?q={{page.address}}">{{page.address}}</a>
+    </p>
+  </header>
+
+  <article class="post-content">
+    {% if page.photo %}
+      <img src="{{page.photo}}" class="left-wrap pure-img" alt="{{page.title}}"/>
+    {% endif %}
+    {{ content }}
+
+    <p>
+        <a class="pure-button pure-button-primary" href="{{page.registration_link}}">Register</a>
+    </p>
+  </article>
+
+</div>
+<div class="page-content pure-u-1-24"></div>
