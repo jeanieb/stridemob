@@ -297,6 +297,11 @@ html {
     font-family: 'Open Sans', sans-serif;
 }
 
+a.pure-button-primary,
+a.pure-button-primary:visited {
+    color: white;
+}
+
 a:visited,
 a {
     color: #D57500;
