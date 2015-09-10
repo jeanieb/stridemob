@@ -2,10 +2,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>StrideMob : {% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
- <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
 <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="{{ "/css/flaticon.css" | prepend: site.baseurl }}">
+
+{% if page.photo %}
+<meta property="og:title" content="{{page.title}}" />
+{% endif %}
+<meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+{% if page.photo %}
+<meta property="og:image" content="{{page.photo}}" />
+{% endif %}
+
 <!--[if lte IE 8]>
 
     <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-old-ie-min.css">
