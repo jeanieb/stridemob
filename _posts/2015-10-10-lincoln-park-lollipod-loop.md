@@ -11,5 +11,7 @@ permalink: /events/lincoln-lollipop/
 excerpt_separator: <!--more-->
 ---
 
-[Lincoln Mountain Open Space and Trails](http://www.douglas.co.us/dcoutdoors/openspace-properties/lincoln-mountain-open-space/) is one of Douglas County's newest parks. The course is 4.3 miles of both open and shaded beauty! Enjoy the friendship, the community, get some great swag (including lollips, of course!). Start your weekend off with smiles!
+[Lincoln Mountain Open Space and Trails](http://www.douglas.co.us/dcoutdoors/openspace-properties/lincoln-mountain-open-space/) is one of Douglas County's newest parks. From open trail to shaded beauty, this 4.5 mile trail run won't disappoint you. Come for the race, stay for community!
 <!--more-->
+
+This lollipop loop race begins in open prairie and takes you onto forested rocky trails. This loop winds through gambel oak and ponderosa pine with a breathtaking view of Pike's Peak on your return to the finish line.

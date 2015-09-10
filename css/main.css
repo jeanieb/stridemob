@@ -77,7 +77,8 @@ label {
     border-radius: 5px;
 }
 
-.splash-container a.pure-button-primary {
+.splash-container a.pure-button-primary,
+.splash-container a.pure-button-primary:visited {
     background: white;
     color: #D57500;
     border-radius: 5px;
