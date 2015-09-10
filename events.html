@@ -7,7 +7,6 @@ order: 5
 
 <div class="l-box-lrg pure-g">
 {% for event in site.posts %}
-   {% if event.featured %}
    <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
        <img class="pure-img-responsive" alt="{{event.title}}" width="300" src="{{site.baseurl}}{{event.photo}}">
    </div>
@@ -23,8 +22,11 @@ order: 5
        </p>
        <p>{{ event.date | date: "%b %-d, %Y" }} @ {{ event.start_time}}</p>
 
+       <p>
+           <a class="pure-button pure-button-primary" href="{{event.registration_link}}">Register</a>
+       </pe
+
    </div>
 
-    {% endif %}
 {% endfor %}
 </div>
