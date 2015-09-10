@@ -12,7 +12,7 @@
 {% endif %}
 <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
 {% if page.photo %}
-<meta property="og:image" content="{{page.photo}}" />
+<link rel=”image_src” href=”{{page.photo}}” />
 <meta property="og:type" content="website"/>
 {% endif %}
 
