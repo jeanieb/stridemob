@@ -6,7 +6,8 @@ icon: flaticon-runner5
 photo: /img/lincoln_open_space.jpg
 featured: true
 address: 7333 Jones Rd, Larkspur, CO 80118
-registration_link: https://www.runningguru.com/EventInformation.asp?eID=16662&SourceCode=Tab
+photos_link: javascript:alert('We\'re working on it. Check back soon!')
+results_link: javascript:alert('We\'re working on it. Check back soon!')
 permalink: /events/lincoln-lollipop/
 excerpt_separator: <!--more-->
 ---

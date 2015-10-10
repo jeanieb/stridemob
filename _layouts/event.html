@@ -19,7 +19,15 @@ layout: default
     {{ content }}
 
     <p>
+        {% if page.registration_link %}
         <a class="pure-button pure-button-primary" href="{{page.registration_link}}">Register</a>
+        {% endif %}
+        {% if page.photos_link %}
+        <a class="pure-button pure-button-primary" href="{{page.photos_link}}">Photos</a>
+        {% endif %}
+        {% if page.results_link %}
+        <a class="pure-button pure-button-primary" href="{{page.results_link}}">Results</a>
+        {% endif %}
     </p>
   </article>
 
