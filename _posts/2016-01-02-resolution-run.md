@@ -15,4 +15,4 @@ Join StrideMob in Castle Rock January 2nd for the Resolution Run and make a comm
 Registration Coming Soon!
 <!--more-->
 
-<img src="/img/resolution_run_map.png" class="pure-img" alt="Course Map"></img>
+<img src="/img/resolution_run_map.png" class="pure-img" alt="Course Map">
