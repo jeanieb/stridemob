@@ -330,3 +330,7 @@ h1, h2, h3, h4 {
 .event-link span:before {
     font-size: inherit;
 }
+
+.event-buttons {
+    text-align: center;
+}

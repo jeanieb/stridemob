@@ -13,12 +13,12 @@ layout: default
   </header>
 
   <article class="post-content">
+
+    <div class="pure-u-1 pure-u-md-2-5">
     {% if page.photo %}
       <img src="{{site.baseurl}}{{page.photo}}" class="left-wrap pure-img" alt="{{page.title}}"/>
     {% endif %}
-    {{ content }}
-
-    <p>
+    <p class="event-buttons">
         {% if page.registration_link %}
         <a class="pure-button pure-button-primary" href="{{page.registration_link}}">Register</a>
         {% endif %}
@@ -29,6 +29,11 @@ layout: default
         <a class="pure-button pure-button-primary" href="{{page.results_link}}">Results</a>
         {% endif %}
     </p>
+    </div>
+    <div class="pure-u-1 pure-u-md-2-5">
+    {{ content }}
+
+</div>
   </article>
 
 </div>
