@@ -7,7 +7,7 @@ photo: /img/resolution_run_logo.jpg
 featured: true
 address: Festival Park, Perry Street, Castle Rock, CO
 permalink: /events/2016-resolution-run
-registration_link: https://register.chronotrack.com/r/17938
+registration_link: https://raceroster.com/events/2016/7257/resolution-run-5k
 excerpt_separator: <!--more-->
 ---
 
