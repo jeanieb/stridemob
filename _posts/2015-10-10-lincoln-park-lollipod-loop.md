@@ -4,7 +4,6 @@ title: Lincoln Lollipop Trail Run
 start_time: 8:30AM
 icon: flaticon-runner5
 photo: /img/lincoln_open_space.jpg
-featured: true
 address: 7333 Jones Rd, Larkspur, CO 80118
 photos_link: https://goo.gl/photos/GQ6RANAQd2NLEqmG7
 results_link: http://www.runningguru.com/RaceResults.asp?ResultsID=2652&EventID=16662
