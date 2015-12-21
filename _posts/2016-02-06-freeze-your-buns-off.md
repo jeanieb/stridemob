@@ -3,7 +3,7 @@ layout: event
 title: Freeze Your Buns Off
 start_time: 8:00AM
 icon: flaticon-runner5
-photo: /img/freeze-your-buns-off.png
+photo: /img/freeze-your-buns-off-sq.png
 featured: true
 address: Douglas County Fairgrounds, Castle Rock, CO
 permalink: /events/2016-freeze-your-buns-off
