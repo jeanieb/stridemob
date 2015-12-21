@@ -7,6 +7,7 @@ photo: /img/freeze-your-buns-off-sq.png
 featured: true
 address: Douglas County Fairgrounds, Castle Rock, CO
 permalink: /events/2016-freeze-your-buns-off
+registration_link: https://raceroster.com/events/2016/7479/freeze-your-buns-off
 excerpt_separator: <!--more-->
 ---
 
@@ -18,4 +19,4 @@ Indoor warm-up and indoor post race activities including a pancake breakfast and
 
 <img src="/img/healthy_living_expo.jpg" class="pure-img" alt="Healthy Living Expo">
 
-Registration coming soon!
+Register today!
