@@ -3,7 +3,7 @@ layout: event
 title: Freeze Your Buns Off
 start_time: 8:00AM
 icon: flaticon-runner5
-photo: /img/pancakes.png
+photo: /img/freeze-your-buns-off.png
 featured: true
 address: Douglas County Fairgrounds, Castle Rock, CO
 permalink: /events/2016-freeze-your-buns-off
@@ -16,6 +16,6 @@ Come Freeze Your Buns Off February 6, 2016 and kick off the [Healthy Living Expo
 
 Indoor warm-up and indoor post race activities including a pancake breakfast and long sleeve t-shirts!
 
-<img src="/img/healthy_living_expo.jpg" class="pure-img" alt="Pancakes">
+<img src="/img/healthy_living_expo.jpg" class="pure-img" alt="Healthy Living Expo">
 
 Registration coming soon!
