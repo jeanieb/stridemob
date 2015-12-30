@@ -19,4 +19,4 @@ Indoor warm-up and indoor post race activities including a pancake breakfast and
 
 <img src="/img/healthy_living_expo.jpg" class="pure-img" alt="Healthy Living Expo">
 
-Register today!
+<a href="{{page.registration_link}}">Register today!</a>
