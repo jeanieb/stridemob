@@ -7,13 +7,14 @@ photo: /img/resolution_run_logo.jpg
 featured: true
 address: Festival Park, Perry Street, Castle Rock, CO
 permalink: /events/2016-resolution-run
-
+photos_link: https://goo.gl/photos/GQ6RANAQd2NLEqmG7
+results_link: http://www.runningguru.com/RaceResults.asp?ResultsID=2652&EventID=16662
 excerpt_separator: <!--more-->
 ---
 
 Join StrideMob in Castle Rock January 2nd for the Resolution Run and make a commitment to stay active this winter. This 5k downtown will take you out and back along the Plum Creek Trail. Your run will finish at Festival Park where the town’s [Winterfest](http://www.crgov.com/2531/Season-of-the-Star) festivities will be kicking off. Castle Rock is where families thrive. Let’s resolve to make 2016 an active year!
 
-Thanks to everyone who came out started 2016 with us!
+Thanks to everyone who came out and started 2016 with us!
 <!--more-->
 
 <img src="/img/resolution_run_map.png" class="pure-img" alt="Course Map">
