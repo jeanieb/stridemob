@@ -7,8 +7,6 @@ photo: /img/resolution_run_logo.jpg
 featured: true
 address: Festival Park, Perry Street, Castle Rock, CO
 permalink: /events/2016-resolution-run
-photos_link: https://goo.gl/photos/GQ6RANAQd2NLEqmG7
-results_link: http://www.runningguru.com/RaceResults.asp?ResultsID=2652&EventID=16662
 excerpt_separator: <!--more-->
 ---
 
