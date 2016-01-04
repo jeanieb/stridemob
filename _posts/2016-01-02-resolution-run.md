@@ -8,6 +8,7 @@ featured: true
 address: Festival Park, Perry Street, Castle Rock, CO
 permalink: /events/2016-resolution-run
 results_link: https://results.chronotrack.com/event/results/event/event-17938
+photos_link: https://goo.gl/photos/J23MfZRVyUjEBCgg8
 excerpt_separator: <!--more-->
 ---
 
