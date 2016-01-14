@@ -19,4 +19,5 @@ Indoor warm-up and indoor post race activities including a pancake breakfast and
 
 <img src="/img/healthy_living_expo.jpg" class="pure-img" alt="Healthy Living Expo">
 
-<a href="{{page.registration_link}}">Register today!</a>
+
+<a href="/img/FYBO-map.jpg"><img src="/img/FYBO-map400.jpg" class="pure-img" alt="Course Map" style="text-align: center"></a>
