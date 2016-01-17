@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Freeze Your Buns Off
-start_time: 8:00AM
+start_time: 9:00AM
 icon: flaticon-runner5
 photo: /img/freeze-your-buns-off-sq.png
 featured: true
