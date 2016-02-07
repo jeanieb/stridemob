@@ -17,11 +17,11 @@ A great group of people showed up on a beautiful crisp morning February 6, 2016 
 <!--more-->
 
 <p>
-  <img src="/img/freeze-your-buns-off-photo.jpg" class="pure-img">
+  <img src="/img/freeze-your-buns-off-photo.jpg" class="pure-img" style="text-align: center">
 </p>
 
 <p>
-  <img src="/img/healthy_living_expo.jpg" class="pure-img" alt="Healthy Living Expo">
+  <img src="/img/healthy_living_expo.jpg" class="pure-img" alt="Healthy Living Expo" style="text-align: center">
 </p>
 
 <a href="/img/FYBO-map.png"><img src="/img/FYBO-map400.png" class="pure-img" alt="Course Map" style="text-align: center"></a>
