@@ -14,7 +14,12 @@ excerpt_separator: <!--more-->
 
 A great group of people showed up on a beautiful crisp morning February 6, 2016 and kicked off the [Healthy Living Expo](http://coloradohealthylivingexpo.com/) at the Douglas County Events Center in Castle Rock, CO. Special thanks to the [Castle Rock Chamber of Commerce](http://www.castlerock.org/) and our sponsors [Elements Massage](http://elementsmassage.com/castle-rock), [Essense Health and Fitness](http://www.castlerockfitness.com/), [RNK Running](http://www.rnkrunning.com/), and the [Elevate Foundation](http://www.discoverhealthandwellness.com/).
 
-<img src="/img/healthy_living_expo.jpg" class="pure-img" alt="Healthy Living Expo">
+<p>
+  <img src="/img/freeze-your-buns-off-photo.jpg" class="pure-img">
+</p>
 
+<p>
+  <img src="/img/healthy_living_expo.jpg" class="pure-img" alt="Healthy Living Expo">
+</p>
 
 <a href="/img/FYBO-map.png"><img src="/img/FYBO-map400.png" class="pure-img" alt="Course Map" style="text-align: center"></a>
