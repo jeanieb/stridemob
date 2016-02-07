@@ -12,11 +12,7 @@ photos_link: https://goo.gl/photos/wPLExvuZhmJumB5n6
 excerpt_separator: <!--more-->
 ---
 
-Come Freeze Your Buns Off February 6, 2016 and kick off the [Healthy Living Expo](http://coloradohealthylivingexpo.com/) at the Douglas County Events Center in Castle Rock, CO. Presented by StrideMob and the [Castle Rock Chamber of Commerce](http://www.castlerock.org/).
-
-<!--more-->
-
-Indoor warm-up and indoor post race activities including a pancake breakfast and long sleeve t-shirts!
+A great group of people showed up on a beautiful crisp morning February 6, 2016 and kicked off the [Healthy Living Expo](http://coloradohealthylivingexpo.com/) at the Douglas County Events Center in Castle Rock, CO. Special thanks to the [Castle Rock Chamber of Commerce](http://www.castlerock.org/) and our sponsors [Elements Massage](http://elementsmassage.com/castle-rock), [Essense Health and Fitnesse](http://www.castlerockfitness.com/), [RNK Running](http://www.rnkrunning.com/), and the [Elevate Foundation](http://www.discoverhealthandwellness.com/).
 
 <img src="/img/healthy_living_expo.jpg" class="pure-img" alt="Healthy Living Expo">
 
