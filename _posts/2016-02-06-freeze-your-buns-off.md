@@ -8,6 +8,7 @@ featured: true
 address: Douglas County Fairgrounds, Castle Rock, CO
 permalink: /events/2016-freeze-your-buns-off
 results_link: http://onlineraceresults.com/race/view_race.php?race_id=51815
+photos_link: https://goo.gl/photos/wPLExvuZhmJumB5n6
 excerpt_separator: <!--more-->
 ---
 
