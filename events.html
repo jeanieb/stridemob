@@ -6,7 +6,8 @@ order: 5
 ---
 
 <div class="l-box-lrg pure-g">
-{% for event in site.posts reversed %}
+{% assign sorted = (site.posts | sort: 'date') %}
+{% for event in sorted%}
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% capture eventtime %}{{event.date | date: '%s'}}{% endcapture %}
 {% if eventtime > nowunix %}
