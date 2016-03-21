@@ -7,9 +7,9 @@ order: 5
 
 <div class="l-box-lrg pure-g">
 {% for event in site.posts reversed %}
-{{ event.date }}
-{{ site.time }}
-{% if event.date > site.time %}
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture eventtime %}{{event.date | date: '%s'}}{% endcapture %}
+{% if eventtime > nowunix %}
    <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
        <img class="pure-img-responsive" alt="{{event.title}}" width="300" src="{{site.baseurl}}{{event.photo}}">
    </div>
@@ -36,7 +36,10 @@ order: 5
 <div class="l-box-lrg pure-g">
 
 {% for event in site.posts | where:"past","true"%}
-{% if event.date < site.time %}
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% capture eventtime %}{{event.date | date: '%s'}}{% endcapture %}
+{% if eventtime < nowunix %}
+
    <div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
        <img class="pure-img-responsive" alt="{{event.title}}" width="300" src="{{site.baseurl}}{{event.photo}}">
    </div>
