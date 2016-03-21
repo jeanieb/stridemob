@@ -4,7 +4,7 @@ title: Resolution Run 2016
 start_time: 4:00PM
 icon: flaticon-runner5
 photo: /img/resolution_run_logo.jpg
-featured: true
+featured: false
 address: Festival Park, Perry Street, Castle Rock, CO
 permalink: /events/2016-resolution-run
 results_link: https://results.chronotrack.com/event/results/event/event-17938

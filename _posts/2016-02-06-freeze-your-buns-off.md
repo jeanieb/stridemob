@@ -4,7 +4,7 @@ title: Freeze Your Buns Off
 start_time: 9:00AM
 icon: flaticon-runner5
 photo: /img/freeze-your-buns-off-sq.png
-featured: true
+featured: false
 address: Douglas County Fairgrounds, Castle Rock, CO
 permalink: /events/2016-freeze-your-buns-off
 results_link: http://onlineraceresults.com/race/view_race.php?race_id=51815
