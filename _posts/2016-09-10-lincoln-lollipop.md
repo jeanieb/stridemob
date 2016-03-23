@@ -11,6 +11,33 @@ registration_link: http://lincolnlollipop.itsyourrace.com/event.aspx?id=7283
 excerpt_separator: <!--more-->
 ---
 
-The Lincoln Lollipop is back! At [Lincoln Mountain Open Space and Trails](http://www.douglas.co.us/dcoutdoors/openspace-properties/lincoln-mountain-open-space/), this lollipop loop race begins in open prairie and takes you onto forested rocky trails. This loop winds through gambel oak and ponderosa pine with a breathtaking view of Pike's Peak on your return to the finish line.
+Join us for 4.1 or 8.3 miles of trail at the Lincoln Lollipop Run on Saturday September 10, 2016 at [Lincoln Mountain Open Space](http://www.douglas.co.us/dcoutdoors/openspace-properties/lincoln-mountain-open-space/) in Larkspur, CO. Come race Douglas County's newest open space. From open trail to shaded beauty, this trail has it all. You begin in open prairie and continue to a rocky forested trail. The loop winds you through gamble oak to ponderosa pine with a break taking view of Pike's Peak on your run into the finish line. Run the 4.1 mile loop or tackle the 8.3 mile run, which adds 400 feet of climbing to experience magnificent panoramic views.  
 
 <!--more-->
+
+## START/FINISH
+The race will start and finish at Lincoln Mountain Open Space
+
+Lincoln Mountain Open Space
+7333 Jones Road
+Larkspur, CO 80118
+
+## REGISTRATION & PACKET PICKUP
+Online registration will remain open right up until the start of the race. Race day registration and packet pickup will take place beginning at 7:30am. You can also pick up your packet the night before at a location to be determined.
+
+Ages 13 & under always race for free
+4.1/8.3 Mile Registration ....... $30/$35 thru 9/10/16
+Late Registration ........ $35/40 after 9/10/16
+
+
+## POST RACE CELEBRATION
+Join us after the race for a post race celebration including food, snacks, refreshments, music and awards ceremony!
+
+## PARKING
+There will be plenty of free parking. 
+
+## AGE GROUPS & AWARDS
+Awards will be given to the top 3 males/3 females and masters age group.
+
+## CONTACT / INFORMATION
+For additional information on the race or sponsorship opportunities available, please contact Jeanie Brevoort at 303-588-1452 or jeanie@stridemob.com
