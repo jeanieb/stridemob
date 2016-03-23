@@ -15,6 +15,8 @@ Join us for 4.1 or 8.3 miles of trail at the Lincoln Lollipop Run on Saturday Se
 
 <!--more-->
 
+<img src="/img/lincolnlollipop1-2016.jpg" class="pure-img" alt="Course Map">
+
 ## START/FINISH
 The race will start and finish at Lincoln Mountain Open Space
 
@@ -34,10 +36,12 @@ Online registration will remain open right up until the start of the race. Race 
 Join us after the race for a post race celebration including food, snacks, refreshments, music and awards ceremony!
 
 ## PARKING
-There will be plenty of free parking. 
+There will be plenty of free parking.
 
 ## AGE GROUPS & AWARDS
 Awards will be given to the top 3 males/3 females and masters age group.
+
+<img src="/img/lincolnlollipop2-2016.jpg" class="pure-img" alt="Course Map">
 
 ## CONTACT / INFORMATION
 For additional information on the race or sponsorship opportunities available, please contact Jeanie Brevoort at 303-588-1452 or jeanie@stridemob.com
