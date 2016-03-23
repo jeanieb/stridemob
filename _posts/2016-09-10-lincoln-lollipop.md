@@ -7,6 +7,7 @@ featured: true
 photo: /img/lincoln_open_space.jpg
 address: 7333 Jones Rd, Larkspur, CO 80118
 permalink: /events/2016-09-10-lincoln-lollipop
+registration_link: http://lincolnlollipop.itsyourrace.com/event.aspx?id=7283
 excerpt_separator: <!--more-->
 ---
 
