@@ -12,4 +12,4 @@ excerpt_separator: <!--more-->
 ---
 
 Join us for the inaugural Rocky Mountain Sports Festival.
-StrideMob will be kicking off the festivities with a 5k, 17k, and 12k trail run along the MAC and Ridgeline Open Space trails. This run is 99% trail!
+StrideMob will be kicking off the festivities with a 7k and 12k trail run along the MAC and Ridgeline Open Space trails. This run is 99% trail!
