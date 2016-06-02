@@ -3,7 +3,7 @@ layout: event
 title: Resolution Run
 start_time: 2:00 PM
 icon: flaticon-runner5
-photo: /img/castle-rock-star.png
+photo: /img/resolution_run_logo.jpg
 featured: true
 address: Castle Rock, CO
 permalink: /events/2016-12-31-resolution-run
