@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Resolution Run 2016
-start_time: 4:00PM
+start_time: 4:00 PM
 icon: flaticon-runner5
 photo: /img/resolution_run_logo.jpg
 featured: false

@@ -1,13 +1,13 @@
 ---
 layout: event
 title: Lincoln Lollipop Trail Run
-start_time: 8:30AM
+start_time: 8:30 AM
 icon: flaticon-runner5
 featured: true
 photo: /img/lincoln-square.png
 address: 7333 Jones Rd, Larkspur, CO 80118
 permalink: /events/2016-09-10-lincoln-lollipop
-registration_link: http://lincolnlollipop.itsyourrace.com/event.aspx?id=7283
+registration_link: http://LincolnLollipop.itsyourrace.com/
 excerpt_separator: <!--more-->
 ---
 
